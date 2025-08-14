@@ -15,13 +15,13 @@ Geographical Insights – Map visualization showing sales distribution by city.
 
 Customer Ratings – Distribution of 1–5 star ratings.
 
-Payment Method Analysis – Share of UPI, debit card, cash, and credit card payments.
+Payment Method Analysis – Share of UPI, Debit Card, Cash, and Credit Card payments.
 
 Dynamic Filters – Drill down by mobile model, brand, city, and customer age.
 
 🖼 Visuals Breakdown
 
-KPI Cards – Show Total Sales, Total Transactions, Average Price, and Total Quantity sold.
+KPI Cards – Show Total Sales, Total Transactions, Average Price, and Total Quantity Sold.
 
 Pie Chart – Top Mobile Models – Displays the share of sales among the most popular models.
 
@@ -31,7 +31,7 @@ Line Chart – Sales Over Time – Shows sales trends by day/month to identify p
 
 Map Visual – Sales by City – Highlights which cities contribute most to sales.
 
-Bar Chart – Payment Method Share – Shows the proportion of payments via UPI, debit card, cash, and credit card.
+Bar Chart – Payment Method Share – Shows the proportion of payments via UPI, Debit Card, Cash, and Credit Card.
 
 Donut Chart – Customer Ratings – Visualizes customer feedback distribution (1–5 stars).
 
@@ -43,7 +43,7 @@ Power BI
 
 DAX (Data Analysis Expressions)
 
-Power Query for Data Cleaning
+Power Query (Data Cleaning)
 
 Data Modeling
 
@@ -52,10 +52,6 @@ Visualization Design
 📷 Dashboard Preview
 
 https://github.com/mohitchaturvedi123/mobile-sales-dashboard-powerbi/blob/main/Screenshot%20_Mobile%20sales%20Powerbi%20dashboaed.png
-
-Download the .pbix file from this repository and open it in Power BI Desktop.
-
-Use the interactive filters to explore different insights.
 
 📌 Purpose of the Project
 
@@ -68,5 +64,4 @@ Data modeling and relationships
 Building interactive visualizations
 
 Storytelling with data
-
 
